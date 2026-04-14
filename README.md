@@ -1,72 +1,24 @@
 # 🛍️ Scatch - Online Ecommerce Shopping Website
 
-Scatch is an **online ecommerce shopping website** that I am currently building as part of my **full stack web development journey**.
+Scatch is an online ecommerce shopping website that I am currently building as part of my full stack web development journey.
 
 The goal of this project is to create a real-world ecommerce platform where users can browse products, add items to cart, manage orders, and enjoy a smooth shopping experience.
 
 🚧 **Status: Currently Working on It**
 This project is actively under development, and I am regularly adding new features, improving backend logic, and enhancing the user experience.
 
----
-
-## ✨ Features I'm Building
-- 🛒 User authentication & authorization
-- 📦 Product listing page
-- 🔍 Product search and filtering
-- 🛍️ Add to cart functionality
-- ❤️ Wishlist
-- 💳 Checkout flow
-- 📍 Address management
-- 📦 Order tracking
-- 📱 Responsive design
-- 🛠️ Admin panel
-
----
+## ✨ Features
+- User authentication
+- Product listing
+- Add to cart
+- Wishlist
+- Checkout
+- Order tracking
+- Admin dashboard
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, EJS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** Sessions / JWT
-- **Templating Engine:** EJS
-
----
-
-## 🎯 What I’m Learning Through This Project
-- Backend development with Node.js
-- Express routing and middleware
-- MongoDB schema design
-- Authentication system
-- CRUD operations
-- Cart and order logic
-- MVC project structure
-- Real-world ecommerce workflow
-
----
-
-## 🚀 Development Progress
-✔ Initial project setup  
-✔ Folder structure created  
-✔ MongoDB connection setup  
-🚧 Currently building core ecommerce features
-
----
-
-## 📌 Note
-This is a **live learning project** that I am building step by step.  
-New updates, features, and improvements will be pushed regularly as development continues.
-
----
-
-## ⭐ Upcoming Enhancements
-- Payment gateway
-- Product reviews & ratings
-- AI recommendations
-- Coupon discounts
-- Email notifications
-- Admin analytics dashboard
-
----
-
-### 👨‍💻 Developer
-Built by me while learning full stack development 🚀
+- Node.js
+- Express.js
+- MongoDB
+- EJS
+- CSS
