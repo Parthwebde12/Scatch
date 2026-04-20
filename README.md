@@ -1,4 +1,4 @@
-# 🛍️ Scatch - Online Ecommerce Shopping Website
+# Online Ecommerce Shopping Website
 
 Scatch is an online ecommerce shopping website that I am currently building as part of my full stack web development journey.
 
